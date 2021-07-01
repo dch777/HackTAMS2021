@@ -22,15 +22,15 @@ class App extends React.Component {
     render() {
         return (
             <div className="app">
-                <Navbar reference={this.navbar} />
+                {/* <Navbar reference={this.navbar} /> */}
                 <Home reference={this.home} />
-                <About reference={this.about} />
+                {/* <About reference={this.about} />
                 <div className="section-break sb1" />
                 <Speakers reference={this.speakers} />
                 <div className="section-break sb2" />
                 <FAQ reference={this.faq} />
                 <div className="section-break sb3" />
-                <Sponsors reference={this.sponsors} />
+                <Sponsors reference={this.sponsors} /> */}
                 <div className="section-break sb4" />
                 <Footer reference={this.footer} />
             </div>
