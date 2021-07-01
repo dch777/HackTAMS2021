@@ -1,10 +1,10 @@
 import React from 'react';
 import Home from './pages/home';
-import Navbar from './pages/navbar'
-import About from './pages/about';
-import Speakers from './pages/speakers';
-import FAQ from './pages/faq';
-import Sponsors from './pages/sponsors';
+// import Navbar from './pages/navbar'
+// import About from './pages/about';
+// import Speakers from './pages/speakers';
+// import FAQ from './pages/faq';
+// import Sponsors from './pages/sponsors';
 import Footer from './pages/footer';
 import './app.css';
 
